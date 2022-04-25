@@ -1,8 +1,8 @@
 # Pipeline to create a Github release for the CoE Starter Kit solution
 parameters:
-- name: ReleaseMonthNumber
+- name: April
   type: number
-- name: ReleaseYearNumber
+- name: 2022
   type: number
 - name: CloseMilestoneIssues
   type: boolean
